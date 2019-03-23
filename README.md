@@ -3,7 +3,7 @@
 # test_gem
 
 Congratulations! You successfully set up your genome-scale metabolic model
-repository.
+repository
 
 ## Next Steps
 
