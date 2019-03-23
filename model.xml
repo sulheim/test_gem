@@ -91,7 +91,6 @@ xmlns:fbc="http://www.sbml.org/sbml/level3/version1/fbc/version2" xmlns:groups="
               </bqbiol:is>
               <bqbiol:isEncodedBy>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/asap/ABE-0001207" />
                   <rdf:li rdf:resource="http://identifiers.org/ecogene/EG13625" />
                   <rdf:li rdf:resource="http://identifiers.org/ncbigene/945008" />
                   <rdf:li rdf:resource="http://identifiers.org/ncbigi/gi:16128336" />

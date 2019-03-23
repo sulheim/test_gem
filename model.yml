@@ -3888,7 +3888,6 @@
     - id: b0351
     - name: ''
     - annotation: !!omap
-      - asap: ABE-0001207
       - ecogene: EG13625
       - ncbigene: '945008'
       - ncbigi: gi:16128336
