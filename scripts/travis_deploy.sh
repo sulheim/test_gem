@@ -11,6 +11,8 @@ echo "Configure Travis git user."
 git config --global user.email "deploy@travis-ci.org"
 git config --global user.name "Travis CI Deployment Bot"
 
+echo "${GITHUB_TOKEN}"
+
 if [[ "${TRAVIS_PULL_REQUEST}" != "false" || "${TRAVIS_REPO_SLUG}" != "sulheim/test_gem" ]]; then
     echo "Untracked build."
     memote run --ignore-git
